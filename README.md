@@ -1,3 +1,3 @@
 # simple_tookit
 
-useful code blocks
+useful python/pytorch code blocks
