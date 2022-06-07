@@ -26,4 +26,7 @@ df.column_name.unique()
 #count unique values in a column
 df.column_name.unique().shape
 
-
+'''
+replace value based on condition
+'''
+df.loc[df['gender']=='male', 'salary'] = 10000
